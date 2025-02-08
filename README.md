@@ -2,7 +2,7 @@
 
 I’m a **data analyst** who loves turning raw numbers into actionable insights and visualizations. I work primarily in Python but also explore various libraries and tools for data cleaning, analysis, and visualization. Always trying new tools!
 
-You can check out my work on [my portfolio website]([https://santiagomonroyg.com/]).
+You can check out my work on [my portfolio website](https://santiagomonroyg.com).
 
 ---
 
