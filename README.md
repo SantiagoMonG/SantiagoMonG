@@ -12,6 +12,7 @@ You can check out my work on [my portfolio website](https://santiagomonroyg.com)
 ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=flat)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&style=flat)
+![Plotly](https://img.shields.io/badge/Plotly-239120?logo=plotly&logoColor=white&style=flat)
 
 I also use **STATA**, **EViews**, **Datawrapper**, and **Flourish** for specialized analysis and interactive data visualization.
 
